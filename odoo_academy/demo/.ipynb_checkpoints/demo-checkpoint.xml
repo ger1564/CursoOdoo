@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+	<data noupdate="1">
+		<record model="academy.course" >
+			<field name="name">Estrucuras Discretas</field>
+			<field name="description">Asignatura de 4to semestre</field>
+			<field name="level">intermediate</field>
+		</record>
+	</data>
+</odoo>
