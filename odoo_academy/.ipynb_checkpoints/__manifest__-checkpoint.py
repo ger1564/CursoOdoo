@@ -11,9 +11,13 @@
     """,
     'category': 'Trainning',
     'data': [
+        
 
     ],
-    'demo': ['odoo_academy/demo/demo.xml'],  
+    'demo': [
+        '/odoo_academy/demo/academy_demo.xml',
+    ],
+    'application': True,
 
 }
 
