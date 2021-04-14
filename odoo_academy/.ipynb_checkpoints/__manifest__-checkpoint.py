@@ -15,7 +15,7 @@
 
     ],
     'demo': [
-        '/odoo_academy/demo/academy_demo.xml',
+        'demo/academy_demo.xml',
     ],
     'application': True,
 
