@@ -11,6 +11,7 @@
     """,
     'category': 'Trainning',
     'data': [
+        'views/course_views.xml',
         
 
     ],
